@@ -1,0 +1,46 @@
+_repo: In-the-brush-b-or-Old-time-social-political-and-religious-life-in-the-southwest_73379
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sheppard, William Ludwell
+    alias: Sheppard, W. L. (William Ludwell)
+    birthdate: 1833
+    deathdate: 1912
+    gutenberg_agent_id: '31450'
+    url: http://www.gutenberg.org/2009/agents/31450
+creator:
+  author:
+    agent_name: Pierson, Hamilton W. (Hamilton Wilcox)
+    aliases:
+    - Pierson, H. W. (Hamilton Wilcox)
+    - Pierson, Hamilton Wilcox
+    birthdate: 1817
+    deathdate: 1888
+    gutenberg_agent_id: '34259'
+    url: http://www.gutenberg.org/2009/agents/34259
+description: ''
+gutenberg_issued: '2024-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73379'
+  lccn: 03018836
+language: en
+pgterms:marc904: https://archive.org/details/inbrush00pier/page/n5/mode/2up?view=theater
+pgterms:marc905: 20230108101952pierson
+pgterms:marc906: '1881'
+pgterms:marc907: US
+production_note: Sonya Schermann, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bD. Appelton and Company, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southwest, Old -- Social life and customs'
+- !lcsh 'Missions -- Southwest, Old'
+- !lcc 'F396'
+- GITenberg
+title: 'In the brush : $b or, Old-time social, political, and religious life in the
+  southwest'
+url: http://www.gutenberg.org/ebooks/73379
